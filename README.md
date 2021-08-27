@@ -1,5 +1,5 @@
 # BMI(Body Mass Index) Application
-<h3> This is a Flutter Application whwre user can enter the following details shown in the demo and can get to know about their BMI and also a subsequent feedback.</h3>
+<h3> This is a Flutter Application where user can enter the following details shown in the demo and can get to know about their BMI and also a subsequent feedback.</h3>
 <h3> To try it make sure you have Android Studio along with the flutter plugin installed in your PC.<h3>
   <h3> Clone the repo or copy the repo link and create the flutter project on Android studio using version Control </h3>
 
