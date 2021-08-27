@@ -1,1 +1,2 @@
-# BMI_Flutter
+# BMI(Body Mass Index) Application
+
